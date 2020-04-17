@@ -4,4 +4,4 @@
 
 Game Screen           |  Main Screen
 :-------------------------:|:-------------------------:
-![](https://github.com/Nurckye/Over-The-Hills/blob/master/githubPic/ghp.png)  |  ![](https://github.com/Nurckye/Over-The-Hills/blob/master/githubMedia/githubPic/ghp2.png)
+![](https://github.com/Nurckye/Over-The-Hills/blob/master/githubPic/ghp.png)  |  ![](https://github.com/Nurckye/Over-The-Hills/blob/master/githubPic/ghp2.png)
